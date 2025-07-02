@@ -2,6 +2,10 @@
 
 Website institucional para a clínica **MM Medicina da Mulher**, desenvolvido com [Next.js](https://nextjs.org/), [React](https://react.dev/), [Tailwind CSS](https://tailwindcss.com/) e [shadcn/ui](https://ui.shadcn.com/).
 
+## 🌐 Acesse o site
+
+[https://website-mm.vercel.app/](https://website-mm.vercel.app/)
+
 ## ✨ Funcionalidades
 
 - Página inicial institucional responsiva
